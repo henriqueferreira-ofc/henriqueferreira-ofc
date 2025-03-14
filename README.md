@@ -3,12 +3,12 @@
 
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCMYVSi46z8iDfIkXxOqOMQA)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriquearaujooficial/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hcafoficial)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquearaujooficial/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henriquearaujoofical/)
-[![Portfolio](https://img.shields.io/badge/Portfólio-2CA5E0?style=for-the-badge&logo=&logoColor=white)](https://henriquearaujooficial.github.io/ProjetoDev/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@henriqueferreira-ofc)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriqueferreira.ofc/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hcafoficial)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqueferreira-ofc/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henriqueferreira.ofi)
+[![Portfolio](https://img.shields.io/badge/Portfólio-2CA5E0?style=for-the-badge&logo=&logoColor=white)](https://github.com/henriqueferreira-ofc/ProjetoDev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquearaujooficial&show_icons=true&theme=dracula)
 
