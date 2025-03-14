@@ -19,6 +19,24 @@ Atualmente, trabalho na Secretaria da Pessoa com Deficiência (SEPD) da Casa Civ
   <p align="left">🔹 Objetivo: Melhorar a experiência de atendimento e fornecer insights estratégicos para políticas públicas. </p>
 
 ###
+<h2 align="left">Contact Me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gerfernandosouza/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:nando32117@gmail.com?subject=Assunto+E-mail" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/n4ndo7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5561983162291&text=Entrando%20em%20contato%20para" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+</div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@henriqueferreira-ofc)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriqueferreira.ofc/)
