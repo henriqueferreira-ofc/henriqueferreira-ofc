@@ -32,12 +32,12 @@ Atualmente, trabalho na Secretaria da Pessoa com Deficiência (SEPD) da Casa Civ
   <!-- Primeira linha: duas imagens lado a lado -->
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=henriqueferreira-ofc&show_icons=true&theme=dracula&hide_border=true&card_width=400" style="display: inline-block; width: 400px; height: 200px; margin-right: 20px;" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueferreira-ofc&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=true&order=2" style="display: inline-block; width: 400px; height: 200px;" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueferreira-ofc&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=6&theme=dracula&hide_border=true&order=2" style="display: inline-block; width: 450px; height: 200px;" alt="Top Languages" />
   </div>
 
   <!-- Segunda linha: gráfico de atividade com largura e altura personalizadas -->
   <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueferreira-ofc&radius=16&theme=dracula&area=true&order=5" style="width: 600px; height: 300px;" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueferreira-ofc&radius=16&theme=dracula&area=true&order=5" style="width: 800px; height: 300px;" alt="Activity Graph" />
   </div>
 </div>
 
