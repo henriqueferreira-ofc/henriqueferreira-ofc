@@ -1,4 +1,4 @@
-<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Henrique Ferreira</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Henrique Ferreira</h1>
 
 ###
 
@@ -6,7 +6,17 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação 8° semestre com experiência prática em desenvolvimento web e forte interesse em aprender e aplicar tecnologias inovadoras. Tenho habilidades em React, Angular, Java, C#, Express, NodeJs e SQL, adquiridas através de projetos acadêmicos e experiências profissionais além de habilidades com metodologias ágeis.</p>
+<p align="left">Concluí o curso de Análise e Desenvolvimento de Sistemas na Uniceplac em julho de 2024 e atualmente estou finalizando MBAs em Gestão de Projetos, Gerenciamento de Projetos de TI, Gestão Pública e Gestão de Pessoas. Minha experiência abrange tecnologias-chave como React, Angular, Java, C#, Express, Node.js, SQL, MySQL, JavaScript, HTML e CSS, adquiridas por meio de projetos acadêmicos e experiências profissionais. Além disso, possuo habilidades sólidas em metodologias ágeis, comprovadas por projetos significativos desenvolvidos durante a graduação.
+
+Atualmente, trabalho na Secretaria da Pessoa com Deficiência (SEPD) da Casa Civil, atuando na gestão de tecnologia. Tenho um forte interesse em aprender e aplicar tecnologias inovadoras, e busco uma oportunidade para expandir meus conhecimentos em um ambiente profissional desafiador.
+
+<h2 align="left">Estou desenvolvendo um Projeto</h2>
+
+📌 Projeto: Sistema de Gestão de Atendimento Acessível
+🔹 Tecnologias: Next.js, Node.js (Express), MySQL, Firebase, TailwindCSS
+🔹 Funcionalidade Principal: Plataforma web para gestão de atendimentos externos para pessoas com deficiência, com acessibilidade aprimorada (modo leitor de tela, botões grandes, comandos por voz).
+🔹 Diferencial: Integração com Google Sheets para análise de dados em tempo real e painéis administrativos interativos.
+🔹 Objetivo: Melhorar a experiência de atendimento e fornecer insights estratégicos para políticas públicas.</p>
 
 ###
 
