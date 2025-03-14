@@ -13,10 +13,10 @@ Atualmente, trabalho na Secretaria da Pessoa com Deficiência (SEPD) da Casa Civ
 <h2 align="left">Estou desenvolvendo um Projeto</h2>
 
 <p align="left"> 📌 Projeto: Sistema de Gestão de Atendimento Acessível
-🔹 Tecnologias: Next.js, Node.js (Express), MySQL, Firebase, TailwindCSS
-🔹 Funcionalidade Principal: Plataforma web para gestão de atendimentos externos para pessoas com deficiência, com acessibilidade aprimorada (modo leitor de tela, botões grandes, comandos por voz).
-🔹 Diferencial: Integração com Google Sheets para análise de dados em tempo real e painéis administrativos interativos.
-🔹 Objetivo: Melhorar a experiência de atendimento e fornecer insights estratégicos para políticas públicas. </p>
+  🔹 Tecnologias: Next.js, Node.js (Express), MySQL, Firebase, TailwindCSS
+  🔹 Funcionalidade Principal: Plataforma web para gestão de atendimentos externos para pessoas com deficiência, com acessibilidade aprimorada (modo leitor de tela, botões grandes, comandos por voz).
+  🔹 Diferencial: Integração com Google Sheets para análise de dados em tempo real e painéis administrativos interativos.
+  🔹 Objetivo: Melhorar a experiência de atendimento e fornecer insights estratégicos para políticas públicas. </p>
 
 ###
 
