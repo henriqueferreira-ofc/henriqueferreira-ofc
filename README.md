@@ -22,28 +22,14 @@ Atualmente, trabalho na Secretaria da Pessoa com Deficiência (SEPD) da Casa Civ
 <h2 align="left">Contact Me</h2>
 
 ###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/henriqueferreira-ofc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:nando32117@gmail.com?subject=Assunto+E-mail" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/henriqueferreira.ofc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=5561982599983&text=Entrando%20em%20contato%20para" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@henriqueferreira-ofc)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriqueferreira.ofc/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/hcafoficial)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqueferreira-ofc/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/henriqueferreira.ofi)
 [![Portfolio](https://img.shields.io/badge/Portfólio-2CA5E0?style=for-the-badge&logo=&logoColor=white)](https://henriqueferreira-ofc.github.io/Portfolio/)
+<a href = "mailto:contato henriqueanalista.ads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato henriqueanalista.ads@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 
 ###
  <div align="center">
@@ -105,10 +91,5 @@ Atualmente, trabalho na Secretaria da Pessoa com Deficiência (SEPD) da Casa Civ
 
 &nbsp;
 &nbsp;
-
-## Meus E-mails de Contato:
-
-<a href = "mailto:contato henriqueanalista.ads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato henriqueanalista.ads@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
