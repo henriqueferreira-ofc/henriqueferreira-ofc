@@ -28,11 +28,9 @@ Atualmente, trabalho na Secretaria da Pessoa com Deficiência (SEPD) da Casa Civ
 [![Portfolio](https://img.shields.io/badge/Portfólio-2CA5E0?style=for-the-badge&logo=&logoColor=white)](https://henriqueferreira-ofc.github.io/Portfolio/)
 
 ###
-  <div align="center">
-  <!-- Primeira linha: duas imagens lado a lado -->
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=henriqueferreira-ofc&show_icons=true&theme=dracula" style="display: inline-block; width: 350px; height: 180px; margin-right: 20px;" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueferreira-ofc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" style="display: inline-block; width: 450px; height: 220px;" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=henriqueferreira-ofc&show_icons=true&theme=dracula" style="display: inline-block; width: 400px; height: 200px;" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueferreira-ofc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" style="display: inline-block; width: 400px; height: 200px;" alt="Top Languages" />
   </div>
 
   <!-- Segunda linha: gráfico de atividade com largura e altura personalizadas -->
