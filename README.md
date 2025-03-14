@@ -37,7 +37,7 @@ Atualmente, trabalho na Secretaria da Pessoa com Deficiência (SEPD) da Casa Civ
 
   <!-- Segunda linha: gráfico de atividade com largura e altura personalizadas -->
   <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueferreira-ofc&radius=16&theme=dracula&area=true&order=5" style="width: 800px; height: 300px;" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueferreira-ofc&radius=16&theme=dracula&area=true&order=5" style="width: 800px; height: 200px;" alt="Activity Graph" />
   </div>
 </div>
 
