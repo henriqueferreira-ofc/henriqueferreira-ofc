@@ -28,15 +28,16 @@ Atualmente, trabalho na Secretaria da Pessoa com Deficiência (SEPD) da Casa Civ
 [![Portfolio](https://img.shields.io/badge/Portfólio-2CA5E0?style=for-the-badge&logo=&logoColor=white)](https://henriqueferreira-ofc.github.io/Portfolio/)
 
 ###
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=henriqueferreira-ofc&show_icons=true&theme=dracula" style="display: inline-block; width: 400px; height: 200px;" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueferreira-ofc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" style="display: inline-block; width: 400px; height: 200px;" alt="Top Languages" />
-  </div>
-
-  <!-- Segunda linha: gráfico de atividade com largura e altura personalizadas -->
-  <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueferreira-ofc&radius=16&theme=dracula&area=true&order=5" style="width: 800px; height: 200px;" alt="Activity Graph" />
-  </div>
+ <div style="text-align: center;">
+    <div style="display: flex; justify-content: center; gap: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=henriqueferreira-ofc&show_icons=true&theme=dracula" style="width: 800px; height: 200px;" alt="GitHub Stats" />
+    </div>
+    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueferreira-ofc&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=6&theme=dracula&hide_border=false&order=2" style="width: 800px; height: 200px;" alt="Top Languages" />
+    </div>
+    <div style="margin-top: 10px;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriqueferreira-ofc&radius=16&theme=dracula&area=true&order=5" style="width: 800px; height: 200px;" alt="Activity Graph" />
+    </div>
 </div>
 
 
