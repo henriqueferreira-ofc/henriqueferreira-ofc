@@ -1,7 +1,14 @@
+<h1 align="left">Hi, <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Henrique Ferreira</h1>
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Henrique Ferreira</h1>
+###
 
+<h2 align="left">About Me</h2>
 
+###
+
+<p align="left">Estudante de Ciência da Computação 8° semestre com experiência prática em desenvolvimento web e forte interesse em aprender e aplicar tecnologias inovadoras. Tenho habilidades em React, Angular, Java, C#, Express, NodeJs e SQL, adquiridas através de projetos acadêmicos e experiências profissionais além de habilidades com metodologias ágeis.</p>
+
+###
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@henriqueferreira-ofc)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/henriqueferreira.ofc/)
