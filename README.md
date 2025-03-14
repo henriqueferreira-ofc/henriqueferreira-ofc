@@ -29,7 +29,7 @@ Atualmente, trabalho na Secretaria da Pessoa com Deficiência (SEPD) da Casa Civ
 
 ###
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=henriqueferreira-ofc&show_icons=true&theme=dracula" style="display: inline-block; width: 400px; height: 300px;" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=henriqueferreira-ofc&show_icons=true&theme=dracula" style="display: inline-block; width: 400px; height: 200px;" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henriqueferreira-ofc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" style="display: inline-block; width: 400px; height: 200px;" alt="Top Languages" />
   </div>
 
